@@ -18,12 +18,12 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: images/favicon.ico # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-        twitter: /
-        facebook: /
-        stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
-        weibo: /
-        rss: /
+        twitter: https://twitter.com/sjulianryo
+        #facebook: /
+        #stack-overflow: /
+        github: https://github.com/sjulianryo
+        #weibo: /
+        #rss: /
 
 # Widgets
 widgets:
